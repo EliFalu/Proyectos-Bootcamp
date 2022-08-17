@@ -1,0 +1,104 @@
+body {
+    background-color: #E7D2CC;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  header{
+    color: #EEEDE7;
+    background-color: #B9B7BD;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  section{
+    color: #EEEDE7;
+    background-color: #B9B7BD;
+    width: 12cm;
+    padding: 10px 20px;
+    margin: 40px;
+    border-radius: 10px ;
+}
+
+h2{
+    text-align: center;
+    border-bottom: 2px solid #EEEDE7;
+}
+
+  aside{
+    color: #EEEDE7;
+    background-color: #B9B7BD;
+    width: 12cm;
+    padding: 10px 20px;
+    margin: 40px;
+    border-radius: 10px;
+    float: right;
+  }
+ 
+  footer{
+    color: #E7D2CC;
+    background-color:#B9B7BD;
+  }
+  
+  
+  .form {
+    width: 12cm;
+    padding: 10px 20px;
+    border-radius: 10px;
+  }
+  label {
+    width: 150px;
+    display: inline-block;
+    margin: 0.2cm;
+    font-weight: bold;
+  }
+  textarea {
+    padding: 5px 20px;
+    border-radius: 10px;
+    border: solid #E7D2CC;
+    height: 0.5cm;
+    width: 5cm;
+  }
+
+  .nav {
+    background-color: #B9B7BD;
+    border-width: 140px;
+    text-align: center;
+    color: #EEEDE7;
+    margin-top: 20px;
+    border-radius: 10px;
+  }
+
+  a {
+    line-height: 1em;
+    display: inline-block;
+    font-weight: bold;
+    padding: 5px;
+    margin: 20px;   
+}
+a:link {
+    color: #EEEDE7; 
+    text-decoration: none;
+}
+a:visited {
+    color: #E7D2CC;
+    text-decoration: none;
+}
+a:hover {
+   color: #B9B7BD;
+   text-decoration: underline;
+   font-size: larger;
+   font-style: italic;
+   border-radius: 10px;
+   background-color:#EEEDE7;
+}
+
+img {
+    width: 12cm;
+}
+
+
+.goals {
+    float: right;
+    padding: 10px 20px;
+    border-radius: 10px;
+    width: 12cm;
+}
